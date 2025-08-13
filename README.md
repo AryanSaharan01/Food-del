@@ -35,14 +35,6 @@ It provides a seamless experience for customers to browse menus, add items to ca
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Cart | Admin Dashboard |
-|-----------|------|-----------------|
-| ![Home Page](./screenshots/home.png) | ![Cart](./screenshots/cart.png) | ![Admin Dashboard](./screenshots/admin.png) |
-
----
-
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
