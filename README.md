@@ -39,5 +39,5 @@ It provides a seamless experience for customers to browse menus, add items to ca
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/foodie-go.git
-   cd foodie-go
+   git clone https://github.com/AryanSaharan01/Food-del.git
+   
